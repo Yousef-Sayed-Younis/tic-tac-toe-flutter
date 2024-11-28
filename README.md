@@ -11,11 +11,23 @@ A modern and responsive Tic-Tac-Toe game built with Flutter, featuring both AI m
 ## Screenshots
 Here are some screenshots of the game:
 
+> [!NOTE]
+> **Click on the image to view the corresponding code!**
+
 - Main Menu Screen
+<a href="https://github.com/Yousef-Sayed-Younis/tic-tac-toe-flutter/blob/main/lib/presentation/main_menu/main_menu_screen.dart">
+<img src="https://github.com/user-attachments/assets/77107673-7327-41c3-b650-bbd6cdadf33d" title="Main Menu Screen" height="300"></a>
+
 - Pick Your Side Screen
+<a href="https://github.com/Yousef-Sayed-Younis/tic-tac-toe-flutter/blob/main/lib/presentation/pick_side/pick_side_screen.dart">
+<img src="https://github.com/user-attachments/assets/93b0079c-b5d7-410f-aa2c-54ac76f2f7b9" title="Pick Your Side Screen" height="300"></a>
+
 - Gameplay Screen (AI Mode)
+  
 - Gameplay Screen (Two-Player Mode)
+  
 - Result Screen (WIN/DRAW)
+  
 
 ## Installation
 To run this project on your local machine:
