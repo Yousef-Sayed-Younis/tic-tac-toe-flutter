@@ -23,11 +23,17 @@ Here are some screenshots of the game:
 <img src="https://github.com/user-attachments/assets/93b0079c-b5d7-410f-aa2c-54ac76f2f7b9" title="Pick Your Side Screen" height="300"></a>
 
 - Gameplay Screen (AI Mode)
-  
+<a href="https://github.com/Yousef-Sayed-Younis/tic-tac-toe-flutter/blob/main/lib/presentation/game/game_screen.dart">
+<img src="https://github.com/user-attachments/assets/a6d6c57d-59e2-4f79-a3f9-7e1c7b5c75e0" title="Gameplay Screen (AI Mode)" height="300"></a>
+
 - Gameplay Screen (Two-Player Mode)
-  
-- Result Screen (WIN/DRAW)
-  
+<a href="https://github.com/Yousef-Sayed-Younis/tic-tac-toe-flutter/blob/main/lib/presentation/game/game_screen.dart">
+<img src="https://github.com/user-attachments/assets/13435b3d-da85-4ac4-8cf7-d073630f3888" title="Gameplay Screen (Two-Player Mode)" height="300"></a>
+
+- Result Snack Bar (WIN/DRAW)
+<a href="https://github.com/Yousef-Sayed-Younis/tic-tac-toe-flutter/blob/main/lib/presentation/widgets/snack_bar.dart">
+<img src="https://github.com/user-attachments/assets/473777f3-9ebe-4977-bfc7-076009d1b501" title="Result Snack Bar (WIN/DRAW)" height="300"></a>
+
 
 ## Installation
 To run this project on your local machine:
