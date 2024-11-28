@@ -4,7 +4,7 @@ A modern and responsive Tic-Tac-Toe game built with Flutter, featuring both AI m
 ## Features
 - **AI Mode**: Play against a computer opponent.
 - **Two-Player Mode**: Play with a friend on the same device.
-- **Pick Your Side**: Choose whether you want to play as 'X' or 'O'.
+- **Pick Your Side**: Choose whether you want to play as `X` or `O`.
 - **Light Theme**: The app currently supports a sleek light theme.
 - **Responsive Design**: The app works smoothly on mobile and tablet devices.
 
