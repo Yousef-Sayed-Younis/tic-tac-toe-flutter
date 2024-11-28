@@ -32,7 +32,8 @@ Here are some screenshots of the game:
 
 - Result Snack Bar (WIN/DRAW)
 <a href="https://github.com/Yousef-Sayed-Younis/tic-tac-toe-flutter/blob/main/lib/presentation/widgets/snack_bar.dart">
-<img src="https://github.com/user-attachments/assets/473777f3-9ebe-4977-bfc7-076009d1b501" title="Result Snack Bar (WIN/DRAW)" height="300"></a>
+<img src="https://github.com/user-attachments/assets/73cbc43c-3c24-43dd-bb7c-f6f2e519eb26" title="Result Snack Bar (WIN)" height="300">
+<img src="https://github.com/user-attachments/assets/473777f3-9ebe-4977-bfc7-076009d1b501" title="Result Snack Bar (DRAW)" height="300"></a>
 
 
 ## Installation
